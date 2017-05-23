@@ -12,23 +12,18 @@ body{
 }
 #rosa{
 	background-color: #ee3e64;
-	left:0;
-	top:0;
+	
 }
 #azul{
 	background-color: #2b7db9;
-	position: absolute;
-	left: 200px;
-	top:200px;
+	
 }
 #verde{
-	left:0;
-	bottom: 0;
+	
 	background-color: #b7d84b;
 }
 #amarillo{
 	background-color: #faff16;
-	right: 0;
-	bottom: 0;
+	
 }
 
